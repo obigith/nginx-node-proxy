@@ -1,0 +1,15 @@
+body {
+  font-family: sans-serif;
+  background: linear-gradient(to right, #4facfe, #00f2fe);
+  color: white;
+  text-align: center;
+  margin-top: 100px;
+}
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  background: white;
+  color: black;
+  border: none;
+  cursor: pointer;
+}
