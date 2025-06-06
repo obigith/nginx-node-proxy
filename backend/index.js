@@ -26,4 +26,3 @@ io.on('connection', (socket) => {
 server.listen(port, '0.0.0.0', () => {
   console.log(`Backend listening at http://0.0.0.0:${port}`);
 });
-
